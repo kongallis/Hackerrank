@@ -1,3 +1,3 @@
-* HackerRank Challenges
+# HackerRank Challenges: Java Output Formatting
 
-Find the description [here](https://www.hackerrank.com/challenges/java-output-formatting/problem)!
+Find the detailed description [here](https://www.hackerrank.com/challenges/java-output-formatting/problem)!
